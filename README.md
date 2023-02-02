@@ -1,6 +1,6 @@
 # Codename
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/lucasepe/codename?style=flat-square)](https://goreportcard.com/report/github.com/lucasepe/codename) &nbsp;&nbsp;&nbsp;  [![PkgGoDev](https://pkg.go.dev/badge/github.com/lucasepe/codename)](https://pkg.go.dev/github.com/lucasepe/codename)
+[![Go Report Card](https://goreportcard.com/badge/github.com/athoscouto/codename?style=flat-square)](https://goreportcard.com/report/github.com/athoscouto/codename) &nbsp;&nbsp;&nbsp;  [![PkgGoDev](https://pkg.go.dev/badge/github.com/athoscouto/codename)](https://pkg.go.dev/github.com/athoscouto/codename)
 
 > an [RFC1178](https://tools.ietf.org/html/rfc1178) implementation to generate pronounceable, sometimes even memorable, _"superhero like"_ codenames, consisting of a random combination of adjective and noun.
 
@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/lucasepe/codename"
+	"github.com/athoscouto/codename"
 )
 
 func main() {
@@ -50,7 +50,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/lucasepe/codename"
+	"github.com/athoscouto/codename"
 )
 
 func main() {
